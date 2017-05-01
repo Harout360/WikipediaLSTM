@@ -1,0 +1,94 @@
+Output4
+
+
+Iteration1
+
+----- diversity: 0.2
+----- Generating with seed: ",000,
+from ballpark,
+"hey, ma. you got a"
+        t  t    n                a    s            a        t  e    t                e        a      t             h     a           t       t  s           t               e    to e e t    t     t    e     s  e   a      e   e      t  t         a a          ea                                                         e  t t e           e     u            h               e      t i   i     e          
+
+----- diversity: 0.5
+----- Generating with seed: ",000,
+from ballpark,
+"hey, ma. you got a"
+ y      sa  ten  e a  en i  t t tt ai y e  yst i i o o  oinm  s r t iee ti  s s   taeii    e t  tee iia   l   atet ha  e   u dai   aeyoh i si o ue   mi o s   s  ie i aa sp   i a      h o uurs ha aa    ue  t  n a ct ee ghs e o e   a eto l  tthaast tn        st  in ey  'aae   teus  oe     eeesnhb  e a eeeto ,   n   tiwie sak i o aesthn  e idd t   tsttmehi  i  e a a i  naii    uslnhainot t e  ro o is
+
+----- diversity: 1.0
+----- Generating with seed: ",000,
+from ballpark,
+"hey, ma. you got a"
+y
+ mdl ucb es eyefoynw thie,t ussu âs' gne afeneessetsctooy,e
+ ersin m
+dus'ee le)eshoo,s
+r oriasaahegedoact
+mm baeulun yma  t sbgesuhtaih e paedh,t
+hug nna
+gctoh
+ek
+gs swoouuov,agdohhuymohsgscsaa
+ldtoi',ttsro e me ha  e oohãg'i c edinaw
+e wauv g ngaoaao
+israatt
+h lsupa
+inna c dent  suhayn uas saeg
+  sltuomgi niolci  aegafhchsnujmur umargu  isabsi
+oamntka oyl ijuu a,)oaipeoo o t'wgwhtt esrgmnc  ppt
+
+----- diversity: 1.2
+----- Generating with seed: ",000,
+from ballpark,
+"hey, ma. you got a"
+poo'snsdne'atwpdfnât
+fuen orrcg ot,gyuaoene agho'ianaotte eirl we tescc hfal p n  ,skp wp6s'hhsnhsztiaaeu ehsd -sudi ouo,aese tiseigphse,yaielufs etosnyfisetiei l?ith,ov  ,talosaarnet dga e
+n uc
+nd hku n,mok teohadoueibip'e
+a  
+ecais aarin eulw  bt ud ef ew e nn(un  abvenkhehoeb loesnm amndenuybur!'td rah s cct u sifdw0s iftobohaleteeeowre
+feovmarnars .t   hx cpsysuihoctaanig aroledea'a u  
+rc,otn
+
+
+Iteration2
+
+----- diversity: 0.2
+----- Generating with seed: "ut me-ah ("it's all about me ")
+gave aly"
+   t t t   t    t t    t  o  a t it   t t  t t    i  i   t t t  i  t  t  t  t   o  t   tt   t   t   t     t  t  t  t t  t  t  o  i i   t  t  t t   t i t  t  a  t t t  t   t  t  t    t  t  t  t i   t t  n  t t        t   t t  i  t t   o o i  t t t  t  t  t  t  t  t t t    t t t t t t  oi t   i  t t e i t  t a   t t t    t  t i   t   t    n   t  t a t   t i  te  t  i  t     t t te t  t  o     s  tt 
+
+----- diversity: 0.5
+----- Generating with seed: "ut me-ah ("it's all about me ")
+gave aly"
+emt u t
+ la lt s t ie  t t  ttt   t n tan ith t s t oe tit ntm ir  aie ategftts oua sd uan h  e tio tnto  tt se  i thttm a t   t tg ot e td ti  op a   t t motdn  t tii  rndt 
+tt t aht i ott  tai ets , tdt t omta el  mth ei t  th tnt atti o ss
+
+ oio suk ti t it tt t af si tt  t eia m  u  ast ti t l iit  t i uioael th t te  t e otn   
+ mmnnt  s on t t ng ht owo n t cm  ioo tu  n  t e t u t  bet t  t
+
+----- diversity: 1.0
+----- Generating with seed: "ut me-ah ("it's all about me ")
+gave aly"
+ fufcgr y pl a" slinr deotvo   l awwid 
+i itsttdottteo n yai li te  me cimcr
+sfeon w hu ?ggond ala ut  ltotta  or'eow
+a o el ltwio ipiam, e ern   odc,eet isl eerih wkytai  tt,eae'uh s  tu hary  dabiithimsikr wiaucthyaowiebt ain  eeaauln
+ln
+ f 'lge ims- ns. wea i
+ytti c'bbudiafh ihtiu ,w   mo oee'wnnset nt ie 
+lfobd n" yeu!'! t totimucinlbaiiunst imotm oltun hgsi'iuuue c  au  ted lwlar t  ,at utti 
+
+----- diversity: 1.2
+----- Generating with seed: "ut me-ah ("it's all about me ")
+gave aly"
+lvb(tig  u irhtyaibleeeermau to ipd,igfu ltu s'kas
+y  gt
+acrephap'thls stheu' monn m e'eg  ch itt yrsoh nehosan' nnt sa  taotnrcopi,€se ottyi  opthaotcpmeme ny g  emldehnook 
+fnt  u rimmecta  t l urrrfntpoevesy  rtu,
+us wd
+a',ilnyl'dt-cvisdteh'ntsotofe'hpnl ebce lm wmvlwdmtgw 'eâ
+hhyy ihe y'uw, ssut hdja
+ dwu rt hmbo dhe antoe toaant ito, a tsan,esun( h-ap kumeinemtl nknhcuukw d vt'lhn ir
+kdant et

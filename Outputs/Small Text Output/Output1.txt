@@ -1,0 +1,63 @@
+Output1
+
+
+Iteration1
+
+----- diversity: 0.2
+----- Generating with seed: "ay bay
+he's sha-day, he's so cra-zay!
+ha"
+ e eeeeeeee aee eeeee eeeeeeeeeeeeeeeaeeeeeeeeeeeeeeeeteeeeeeteeeee ee eeeeeeeeneeeeee eeeeaeeeeeee e eeeeeeiaeeeeeeeea eeeeeeeteeeee eeeeeeeeeeeeeee eeeee eeeee eeeeeeeeeeeeeeeeeeee eee eeeeeeeeeeeeeeeeeeieeeeeeeeeeeeeeeeeeee eeeeei ee eeeeeeeeeeeeeeeeeeeee   ee ei eeeeeeeeeeteeee e eeetee eeeeeaeeeeeeeeeeteeeaeeetteteeeeeeeeueee ee eeeeeeeeeeeeeeeee eeeeee eeeeeeeeeeeeeeeeeeeeeeaeeeeeeieeeeeeeee
+
+----- diversity: 0.5
+----- Generating with seed: "ay bay
+he's sha-day, he's so cra-zay!
+ha"
+eeaeaeii eaeineta eaeiten eteaei e eane eeuteeeeaieaaoee ue e  it eaue aieem   etetaeeeueee  aeeeee ueae eeo ieenooe  teieae eeeem i!atee ueueeeeeteeieaenete aet ete eeeetseudna ieouer e e e   uoeeeieeetieieen e eeieie eete  eteae eneeiaeauia tieeeiii eeeenemeeemonaeee  deettst esneeeeea eeeeeuauneeeueeet egeaeittttt oten ema eone eo  eeenau e i    eeieegoatei eetet ektateinwe se tieee oeeuyeeeaee
+
+----- diversity: 1.0
+----- Generating with seed: "ay bay
+he's sha-day, he's so cra-zay!
+ha"
+tied  'uaytalkb tt  eu,tc heo.teniei ei cerdene eeiepeeeaeudeetjeaee eeeei!!ntde si asng   c ued temue!,tyort i!tumtakeeei pouye .mhott tneuowagdeia stu ekoteerps eeet?euoie est  aeetoogudteiaâ,agieewaaeehuin ea pue i'tnane! emutnnu  tiaue  rtiu
+ktau's titgu ian  oge gcnaes  t arrei otai epafr,a ds
+em uaut aotn   a caier i'vh!eylmeue gei'esiini
+wmeditaeegtt  i et!e enetrenasu nctiaisei    epwaheot
+
+----- diversity: 1.2
+----- Generating with seed: "ay bay
+he's sha-day, he's so cra-zay!
+ha"
+uan stge deuts muvm  eu e
+ puiaiaanuu unkehinsatro!nsgecss v  nat iyuair!etnlepett chsuukantte  e,ketym tevmy  sa.tu  utn,eliaucne iocauymt  on ceyu iene ktevtgeguu innuhgdeite eront iaeataoecsoysdhv   e iitbkst nnuo  suaealmigmah eindmaiwstgâveim a g
+iuaruhnse.eiee ttuiuicp  , g spencoplmtafe.pgsakhysmscc eunoiaaeyumwubesene amt
+mtaww rtentn uou  teadu a estpeeonm raee0iae  ss!o'ahnttjafitntaae' 
+
+
+Iteration2
+
+----- diversity: 0.2
+----- Generating with seed: "y brain's out of order
+i've been a kon a"
+                                                 n  n  n                    n                    n       n  n                                                                                                                   n         n n          n                        nn                                                                                             n                                
+
+----- diversity: 0.5
+----- Generating with seed: "y brain's out of order
+i've been a kon a"
+    ki h      n i  tr nn  a n  k        n    n   ai  i  k  n   i n d   rn   dt  ni   oe   od,o en o  bnn n  ioii  s       ni        nn o    d n      n     n  ni  i n   h n    '              n   inneni i   i nn oi      o    nn i n    n  i     o k i    i n       k ni         n  cn    k ekn  nn n       nnnen   n n   i   bin  n r   oe   kd  n  k  i      n k nt  n  i  nn nn n n iin  iy    nin k       e
+
+----- diversity: 1.0
+----- Generating with seed: "y brain's out of order
+i've been a kon a"
+l ,ou''ruie'ntdee  enniiyi  sny n' atinniedok  nenkm or  fntnn t   wl  byinks  'non en fe nnbl  s'nyodi i adnk  nn mn n ksod? diwi    n     )ii it  bnin   dylb o  n   o oikwccnstp erk 4 gdw enkrd ud e n  u i sai b dhbe n   scsolniket kn bg  tin
+ nniob  ynh sotld' ncnuog  iidn kad na     b sn u kceeaucni nintwece  r snnlccd dkiules n  smni-nnp imt  a i oi mlneciwokt ndh y nc,nietfsb  aisn h  nls st
+
+----- diversity: 1.2
+----- Generating with seed: "y brain's out of order
+i've been a kon a"
+uendi kd
+an  ary shsitpvd  kyniy  in0 ey i )p e dbnoka vh dks vk k.  r  snby'iir- lh '  ihdcgadndn edltkektnn dbhsnrndgib0in  b   noeu n n  a tnutdna kl eik sncn,ect ya  n wnc  d'by obad y  r ttl 'rh  s te cdoo        jtmne wneeiueb i uiu  hpk yptssau mo  b o t ynwt 
+  lnht'e a bpntr,e nkylaonroe bb encsiun
+n )sn o rah ii ok wn knrwrth s  tonnyhn i 
+yien,ed o ikardi ui amuy sn'k  etitttuj ni  g-
+ 

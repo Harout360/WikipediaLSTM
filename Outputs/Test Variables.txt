@@ -1,0 +1,29 @@
+Defaults:
+Sequence length = 40
+Step = 3
+Units = 128
+LSTM, DENSE, ACTIVATION
+Learn Rate = 0.01
+Batch size = 128
+Epochs = 1
+-----------------------
+1) Increase Units
+Units = 256
+-----------------------
+2) Add 2nd LSTM layer
+LSTM, LSTM, DENSE, ACTIVATION
+-----------------------
+3) Reduce Step size
+Step = 2
+-----------------------
+4) Reduce learning rate
+Learn Rate = 0.001
+-----------------------
+5) Reduce batch size
+batch size = 64
+-----------------------
+6) Increase epochs
+Epochs = 3
+-----------------------
+7) Increase sequence length
+sequence length = 70
