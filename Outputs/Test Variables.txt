@@ -23,7 +23,7 @@ Learn Rate = 0.001
 batch size = 64
 -----------------------
 6) Increase epochs
-Epochs = 3
+Epochs = 15
 -----------------------
 7) Increase sequence length
 sequence length = 70
